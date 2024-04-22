@@ -1,36 +1,31 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## FULL STACK FOOD
 
-## Getting Started
+Meu primeiro app full stack projetado com base em materiais e pesquisas.
 
-First, run the development server:
+Necessário instalação de todas as dependencias presentes em:
+# package.json
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Diagrama do banco de dados projetado no arquivo:
+# diagram.excalidraw
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Utilizei aqui as principais ferramentas atuais do mercado:
+# React
+# Typescript
+# Postgresql
+# Tailwind
+# Next.js
+# Shadcn
+# Node.js
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Após esta experiência conquistei familiaridade com as mesmas.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Proposta
 
-## Learn More
+O projeto consiste em um clone de "Ifood" com features simples que a princípio incluem:
 
-To learn more about Next.js, take a look at the following resources:
+- Sessão de usuário
+- Visualização de restaurante, categorias e pratos
+- Visualização de pedidos e restaurantes favoritos
+- Informações detalhadas e de complexa implementação
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Saiba que este projeto ainda permanece em andamento com novas features a caminho!
