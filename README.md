@@ -1,31 +1,40 @@
-## FULL STACK FOOD
 
-Meu primeiro app full stack projetado com base em materiais e pesquisas.
+# FULL STACK FOOD
 
-Necessário instalação de todas as dependencias presentes em:
-# package.json
+Web app full stack clone do ifood.
+Projetado e desenvolvido com base em materiais e pesquisas.
 
-Diagrama do banco de dados projetado no arquivo:
-# diagram.excalidraw
 
-Utilizei aqui as principais ferramentas atuais do mercado:
-# React
-# Typescript
-# Postgresql
-# Tailwind
-# Next.js
-# Shadcn
-# Node.js
+## Referência
 
-Após esta experiência conquistei familiaridade com as mesmas.
+ - [Next.js](https://nextjs.org/)
+ - [Prisma.io](https://www.prisma.io/)
+ - [Neon - Serveless Postgres](https://neon.tech/)
+ - [Full-stack | Tech Guide](https://techguide.sh/pt-BR/path/full-stack/)
+ - [Tailwind](https://tailwindcss.com/)
 
-## Proposta
 
-O projeto consiste em um clone de "Ifood" com features simples que a princípio incluem:
+## Database
 
-- Sessão de usuário
-- Visualização de restaurante, categorias e pratos
-- Visualização de pedidos e restaurantes favoritos
-- Informações detalhadas e de complexa implementação
+Diagrama no arquivo **diagram.excalidraw**.
 
-Saiba que este projeto ainda permanece em andamento com novas features a caminho!
+
+## Stack utilizada
+
+**Front-end:** React, Typescript, Tailwind, Next.js, Shadcn.
+
+**Back-end:** Node, Postgresql.
+
+
+## Aprendizados
+
+Criei familiaridade com o ciclo de desenvolvimento full-stack. Desafiei minha própria capacidade de aprimoramento e me expandi a cada novo conhecimento.
+
+
+## Funcionalidades
+
+- Sessão de usuário.
+- Navegação, restaurante, categorias e pratos.
+- Pedidos, cancelamentos e favoritos.
+- Carrinho e suporte.
+
